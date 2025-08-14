@@ -148,7 +148,7 @@ const App = () => {
                 <h1 className="text-[8rem] leading-none -ml-60">auto</h1>
               </div>
               <img
-                className="absolute  character -bottom-[32%] left-1/2 -translate-x-1/2  scale-[3] rotate-[-20deg]  h-[720px] w-[610px]"
+                className="absolute  character -bottom-[32%] left-1/2 -translate-x-1/2  scale-[3] rotate-[-20deg]  h-[740px] w-[610px]"
                 src="./girlbg.png"
               />
             </div>
